@@ -18,7 +18,7 @@ const Navbar = () => {
                 <li>Home</li>
                 <li>About</li>
                 <li>Skills</li>
-                <li>Work</li>
+                <li>Work Experience 3 Years</li>
                 <li>Contact</li>
             </ul>
 
